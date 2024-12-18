@@ -1,0 +1,120 @@
+WelcomeMessage=What should I drink?
+StartMessage=Are you in Mexico?
+
+pwnNoobsQ=Do you PwN nOobs?
+dietQ=Are you on a diet?
+ostentatiousQ=Are you ostentatious?
+boostQ=Do you need a boost?
+animatedQ=Are you animated?
+juggaloQ=Are you a juggalo?
+dirtQ=Do you like the aftertaste of dirt?
+TayQ=Are you Tay Zonday?
+BrazilQ=Are you in Brazil?
+doleQ=Are you on the dole?
+fluxQ=Have you the flux capacitor?
+gumQ=Do you like drinking bubble gum?
+all-nighterQ=Are you pulling an all-nighter?
+tescoQ=Are you shopping at Tesco?
+picnicQ=Are you at a picnic?
+buyQ=Can you buy any of these?
+TylerQ=Do you enjoy Tyler Perry movies?
+rootbeerQ=Do you want root beer?
+tummyQ=Do you have a tummy ache?
+qualityQ=Do you care about quality?
+HFCSQ=Do you care about HFCS?
+tasteQ=....and taste?
+cherryQ=Do you enjoy "cherry" with beverage
+caffeineQ=Can you tolerate caffeine?
+backpackQ=Do you carry a backpack?
+singQ=Do you want your tastebuds to sing?
+simplerQ=Do you long for "the simpler" days?
+
+finalMessage=Your pick is...
+
+Yes=Yes
+No=No
+
+MexicoYes=Yes
+MexicoNo=No
+
+noobsYes=Yes
+noobsNo=No
+
+dietYes=Yes
+dietNo=No
+
+ostentatiousYes=Yes
+ostentatiousNo=No
+
+animatedYes=Yes
+animatedNo=No
+
+juggaloYes=Yes
+juggaloNo=No
+
+boostYes=Yes
+boostNo=No
+
+dirtYes=Yes
+dirtNo=No
+
+TayYes=Yes
+TayNo=No
+
+BrazilYes=Yes
+BrazilNo=No
+
+doleYes=Yes
+doleNo=No
+
+fluxYes=Yes
+fluxNo=No
+
+gumYes=Yes
+gumNo=No
+
+all-nighterYes=Yes
+all-nighterNo=No
+
+tescoYes=Yes
+tescoNo=No
+
+picnicYes=Yes
+picnicNo=No
+
+buyYes=Yes
+buyNo=No
+
+TylerYes=Yes
+TylerNo=No
+
+rootbeerYes=Yes
+rootbeerNo=No
+
+tummyacheYes=Yes
+tummyacheNo=No
+
+qualityYes=Yes
+qualityNo=No
+
+HFCSYes=Yes
+HFCSNo=No
+
+cherryYes=Yes
+cherryNo=No
+
+tasteYes=Yes
+tasteNo=No
+
+caffeineYes=Yes
+caffeineNo=No
+
+backpackYes=Yes
+backpackNo=No
+
+singYes=Yes
+singNo=No
+
+simplerYes=Yes
+simplerNo=No
+
